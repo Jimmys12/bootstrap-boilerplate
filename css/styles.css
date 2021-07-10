@@ -1,0 +1,22 @@
+nav {
+    height: 150px;
+    background-color: orchid;
+}
+
+.col {
+    height: 600px;
+}
+
+
+.left {
+    background-color: indianred;
+}
+
+.right {
+    background-color: wheat;
+}
+
+footer {
+    height: 200px;
+    background-color: goldenrod;
+}
