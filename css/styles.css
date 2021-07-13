@@ -3,7 +3,13 @@ nav {
     background-color: orchid;
 }
 
-.col {
+.nav {
+    height: 70px;
+    background-color: bisque;
+    border: solid 1px black;
+}
+
+.content {
     height: 600px;
 }
 
