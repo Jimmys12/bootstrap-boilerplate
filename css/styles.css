@@ -1,0 +1,28 @@
+nav {
+    height: 150px;
+    background-color: orchid;
+}
+
+.nav {
+    height: 70px;
+    background-color: bisque;
+    border: solid 1px black;
+}
+
+.content {
+    height: 600px;
+}
+
+
+.left {
+    background-color: indianred;
+}
+
+.right {
+    background-color: wheat;
+}
+
+footer {
+    height: 200px;
+    background-color: goldenrod;
+}
