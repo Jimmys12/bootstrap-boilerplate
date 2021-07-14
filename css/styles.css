@@ -9,6 +9,10 @@ nav {
     border: solid 1px black;
 }
 
+.jumbotron {
+    background-color:mediumslateblue;
+}
+
 .content {
     height: 600px;
 }
@@ -20,6 +24,11 @@ nav {
 
 .right {
     background-color: wheat;
+}
+
+.display-5 {
+    text-align: center;
+    padding: 10px;
 }
 
 footer {
