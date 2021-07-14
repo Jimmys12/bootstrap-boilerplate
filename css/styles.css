@@ -26,6 +26,11 @@ nav {
     background-color: wheat;
 }
 
+.display-5 {
+    text-align: center;
+    padding: 10px;
+}
+
 footer {
     height: 200px;
     background-color: goldenrod;
